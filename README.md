@@ -1,6 +1,6 @@
 # CS 121 Portfolio
 
-Hi, I'm Kameron and these are some of my code projects! 
+Hi, I'm Kameron and these are some of my code projects! 🐄😃
 
 | Number | Item | Description |
 | :---: | --- | --- |
